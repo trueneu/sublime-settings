@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://webproxy.corp.booking.com:3128/",
+	"https_proxy": "",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BetterFindBuffer",
+		"EasyClangComplete",
+		"ModernPerl",
+		"Package Control",
+		"SFTP",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeGit"
+	]
+}
