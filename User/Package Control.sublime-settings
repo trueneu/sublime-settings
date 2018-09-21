@@ -1,6 +1,6 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "http://webproxy.corp.booking.com:3128/",
+	"http_proxy": "",
 	"https_proxy": "",
 	"in_process_packages":
 	[
